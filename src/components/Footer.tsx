@@ -16,17 +16,9 @@ const Footer = () => {
 
         <div className="flex items-center justify-center gap-6 mt-2">
           <a
-            rel="noreferrer"
-            target="_blank"
-            href="https://x.com/AdebanjoSt63916"
-          >
-            <FaXTwitter className="size-5 text-gray-700 hover:text-gray-600 cursor-pointer" />
-          </a>
-
-          <a
             target="_blank"
             rel="noreferrer"
-            href="https://github.com/SteeveSticks"
+            href="https://github.com/mohandamged70m"
           >
             <FiGithub className="size-5 text-gray-70 hover:text-gray-600 cursor-pointer" />
           </a>
@@ -34,7 +26,7 @@ const Footer = () => {
           <a
             target="_blank"
             rel="noreferrer"
-            href="https://www.linkedin.com/in/stephen-adebanjo-82a6ba359/"
+            href="https://www.linkedin.com/in/mohandamged/"
           >
             <FaLinkedin className="size-5 text-gray-700 hover:text-gray-600 cursor-pointer" />
           </a>
@@ -42,7 +34,7 @@ const Footer = () => {
           <a
             rel="noreferrer"
             target="_blank"
-            href="mailto:stephenadebanjo86@gmail.com"
+            href="mailto:mohandamged70m@gmail.com"
           >
             <Mail className="size-5 text-gray-700 hover:text-gray-600 cursor-pointer" />
           </a>
