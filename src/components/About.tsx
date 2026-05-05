@@ -43,7 +43,7 @@ const About = () => {
       </div>
 
       <Link
-        href="https://www.linkedin.com/in/stephen-adebanjo-82a6ba359/"
+        href="https://www.linkedin.com/in/mohandamged/"
         target="_blank"
       >
         <motion.div
