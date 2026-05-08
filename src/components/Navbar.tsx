@@ -45,7 +45,7 @@ const Navbar = () => {
               <Link
                 target="_blank"
                 rel="noreferrer"
-                href="https://github.com/SteeveSticks"
+                href="https://github.com/mohandamged70m"
               >
                 <FiGithub className="size-6 text-white hover:text-white/90 cursor-pointer mr-2" />
               </Link>

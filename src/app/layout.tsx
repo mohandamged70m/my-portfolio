@@ -97,7 +97,7 @@ export const metadata: Metadata = {
       url: "https://myportfoliome.vercel.app",
       image: "https://myportfoliome.vercel.app/img/profile-pic.jpg",
       sameAs: [
-        "https://github.com/SteeveSticks",
+        "https://github.com/mohandamged70m",
         "https://x.com/AdebanjoSt63916",
       ],
       jobTitle: "Software Engineer",

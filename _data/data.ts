@@ -11,4 +11,16 @@ export const projects = [
     problem: "Open-source Japanese learning platform required community-contributed content (proverbs, grammar points) and had syntax errors in JSON content files.",
     solution: "Added validated Japanese proverb entries, grammar point structures for 〜ても (even if/though), contributed video game quotes, and resolved JSON formatting bugs in community content files. Ensured all contributions passed CI checks (TypeScript, ESLint, formatting).",
   },
+  {
+    name: "Qahwa",
+    slug: "qahwa",
+    show: "Qahwa - Coffee Companion",
+    desc: "Created Qahwa, an coffee companion that provides personalized brewing recommendations and coffee knowledge. Built with React, Node.js, Qahwa offers users a unique and interactive coffee experience.",
+    lang: ["React", "Node.js", "Express", "MongoDB"],
+    img: "qahwa-banner.png",
+    link: "https://qahwa-nu.vercel.app/",
+    git: "https://github.com/mohandamged70m/qahwa",
+    problem: "Coffee enthusiasts often struggle to find personalized brewing recommendations and comprehensive coffee knowledge in one place.",
+    solution: "Developed Qahwa, a coffee companion that offers personalized brewing recommendations based on user preferences and provides extensive coffee knowledge. Built with React for the frontend and Node.js with Express for the backend, Qahwa utilizes MongoDB to store user data and coffee information, creating an interactive and engaging experience for coffee lovers.",
+  }
 ];
