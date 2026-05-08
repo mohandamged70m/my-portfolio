@@ -80,7 +80,7 @@ const Contact = () => {
 
             <div className="mt-2">
               <textarea
-                placeholder="Hi, Stephen are you up for this role:"
+                placeholder="Hi, Mohand are you up for this role:"
                 id="message"
                 value={form.message}
                 onChange={(e) => setForm({ ...form, message: e.target.value })}
