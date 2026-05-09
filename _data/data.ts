@@ -6,7 +6,7 @@ export const projects = [
     desc: "An AI SaaS that helps HR teams across the Middle East and North Africa write professional, compliant job descriptions in seconds. Generates bilingual (Arabic + English) JDs aligned with KSA/UAE labor law standards.",
     lang: ["Next.js 16", "React 19", "Tailwind CSS 4", "shadcn/ui", "Google Gemini API"],
     img: "Rolevia.png",
-    link: "https://rolevia.com",
+    link: "https://rolevia.vercel.app",
     git: "https://github.com/mohandamged70m/rolevia",
     problem: "HR teams in the MENA region struggle to write compliant, role-specific job descriptions that meet local labor laws (KSA, UAE, Egypt) while maintaining ATS compatibility.",
     solution: "Built an AI-powered platform that generates bilingual JDs using Google's Gemini API, with features like ATS integration (Greenhouse, Bayt, LinkedIn), bias and quality scoring, RTL support for Arabic, and a freemium pricing model.",
