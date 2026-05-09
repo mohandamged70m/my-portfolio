@@ -33,11 +33,11 @@ const Experience = () => {
 
             <div className="flex-center">
               <h1 className="text-gray-500 max-sm:hidden">
-                Full Stack Developer at
+                Founder & Developer at
               </h1>
               <Button className="bg-[#EEF4FF] text-[#3B82F6] ml-2">
                 <Star />
-                Kana Dojo
+                Rolevia
               </Button>
             </div>
           </motion.div>
