@@ -14,13 +14,13 @@ export const projects = [
   {
     name: "Qahwa",
     slug: "qahwa",
-    show: "Qahwa - Coffee Companion",
-    desc: "Created Qahwa, an coffee companion that provides personalized brewing recommendations and coffee knowledge. Built with React, Node.js, Qahwa offers users a unique and interactive coffee experience.",
-    lang: ["React", "Node.js", "Express", "MongoDB"],
+    show: "Qahwa — Egyptian Artisan Coffee Brand",
+    desc: "Built a conversion-focused single-page marketing website for a fictional Egyptian artisan coffee brand with 150+ years of heritage. Features a mobile-first responsive design, smooth scroll navigation with fixed header, animated hero section with dual CTAs, product showcase grid with WhatsApp order integration, customer testimonials, and email newsletter signup.",
+    lang: ["Next.js 14", "Tailwind CSS", "shadcn/ui", "Framer Motion", "Google Gemini API", "Supabase"],
     img: "qahwa-banner.png",
     link: "https://qahwa-nu.vercel.app/",
     git: "https://github.com/mohandamged70m/qahwa",
-    problem: "Coffee enthusiasts often struggle to find personalized brewing recommendations and comprehensive coffee knowledge in one place.",
-    solution: "Developed Qahwa, a coffee companion that offers personalized brewing recommendations based on user preferences and provides extensive coffee knowledge. Built with React for the frontend and Node.js with Express for the backend, Qahwa utilizes MongoDB to store user data and coffee information, creating an interactive and engaging experience for coffee lovers.",
+    problem: "Artisan coffee brands struggle to provide personalized product recommendations and a conversion-optimized digital presence that captures the warmth and heritage of their offerings.",
+    solution: "Implemented an AI-powered conversational coffee quiz using Google Gemini API that guides users through multi-step preference gathering (strength, style, flavor, brew method) and scores 23 products to deliver personalized recommendations with alternatives. Integrated Supabase for email capture and WhatsApp for order integration, achieving LCP under 2.5s with warm luxury aesthetic.",
   }
 ];
